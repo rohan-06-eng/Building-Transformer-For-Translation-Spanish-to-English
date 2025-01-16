@@ -11,7 +11,6 @@ This project demonstrates how to build a Transformer model from scratch for lang
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This repository contains code to build and train a Transformer model for translating text from one language to another. The implementation is done from scratch using PyTorch, providing a clear understanding of the inner workings of the Transformer architecture. The goal is to offer an educational resource for those interested in learning about the Transformer model and its applications in NLP.
