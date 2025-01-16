@@ -72,4 +72,4 @@ Include a section to showcase the results of your model, including training loss
 ![Epoch Loss](Images/epoch_loss.jpg)
 
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes. When contributing, please follow the code of conduct and ensure your code adheres to the project's style guidelines.
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes. When contributing, please follow the code of conduct and ensure your code adheres to the project's style guidelines. For further discussions you can connect with me on my LinkedIn
