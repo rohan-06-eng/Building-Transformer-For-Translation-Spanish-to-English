@@ -68,9 +68,9 @@ python evaluate.py --model_path /path/to/your/model --data_path /path/to/your/da
 
 ## Results
 Include a section to showcase the results of your model, including training loss, validation accuracy, and example translations. Visualize the training process with plots of loss and accuracy over epochs. Provide qualitative results by showing example translations compared to reference translations.
+![Epoch Learning Rate](Images/epoch_lr.jpg)
+![Epoch Masked Accuracy](Images/epoch_masked_accuracy.jpg)
+![Epoch Loss](Images/epoch_loss.jpg)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes. When contributing, please follow the code of conduct and ensure your code adheres to the project's style guidelines.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
